@@ -1,0 +1,772 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\FPT\\PRN211\\Project\\InfertilityTreatment\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EDC9E7D6-B4C2-491E-8339-A73367E2713C}|InfertilityTreatment\\InfertilityTreatment.csproj|d:\\fpt\\prn211\\project\\infertilitytreatment\\infertilitytreatment\\customer\\customerconfirmcanceldialog.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{EDC9E7D6-B4C2-491E-8339-A73367E2713C}|InfertilityTreatment\\InfertilityTreatment.csproj|solutionrelative:infertilitytreatment\\customer\\customerconfirmcanceldialog.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDC9E7D6-B4C2-491E-8339-A73367E2713C}|InfertilityTreatment\\InfertilityTreatment.csproj|d:\\fpt\\prn211\\project\\infertilitytreatment\\infertilitytreatment\\customer\\customerconfirmcanceldialog.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDC9E7D6-B4C2-491E-8339-A73367E2713C}|InfertilityTreatment\\InfertilityTreatment.csproj|solutionrelative:infertilitytreatment\\customer\\customerconfirmcanceldialog.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDC9E7D6-B4C2-491E-8339-A73367E2713C}|InfertilityTreatment\\InfertilityTreatment.csproj|d:\\fpt\\prn211\\project\\infertilitytreatment\\infertilitytreatment\\customer\\customerappoimentpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDC9E7D6-B4C2-491E-8339-A73367E2713C}|InfertilityTreatment\\InfertilityTreatment.csproj|solutionrelative:infertilitytreatment\\customer\\customerappoimentpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDC9E7D6-B4C2-491E-8339-A73367E2713C}|InfertilityTreatment\\InfertilityTreatment.csproj|d:\\fpt\\prn211\\project\\infertilitytreatment\\infertilitytreatment\\customer\\customerappoimentpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{EDC9E7D6-B4C2-491E-8339-A73367E2713C}|InfertilityTreatment\\InfertilityTreatment.csproj|solutionrelative:infertilitytreatment\\customer\\customerappoimentpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDC9E7D6-B4C2-491E-8339-A73367E2713C}|InfertilityTreatment\\InfertilityTreatment.csproj|d:\\fpt\\prn211\\project\\infertilitytreatment\\infertilitytreatment\\admin\\useraccesshistorydashport.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDC9E7D6-B4C2-491E-8339-A73367E2713C}|InfertilityTreatment\\InfertilityTreatment.csproj|solutionrelative:infertilitytreatment\\admin\\useraccesshistorydashport.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C13D036-CC10-48A2-B801-2DA004AAC9DA}|BusinessObject\\BusinessObject.csproj|d:\\fpt\\prn211\\project\\infertilitytreatment\\businessobject\\models\\appointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C13D036-CC10-48A2-B801-2DA004AAC9DA}|BusinessObject\\BusinessObject.csproj|solutionrelative:businessobject\\models\\appointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDC9E7D6-B4C2-491E-8339-A73367E2713C}|InfertilityTreatment\\InfertilityTreatment.csproj|d:\\fpt\\prn211\\project\\infertilitytreatment\\infertilitytreatment\\manager\\appointmentcheckingpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDC9E7D6-B4C2-491E-8339-A73367E2713C}|InfertilityTreatment\\InfertilityTreatment.csproj|solutionrelative:infertilitytreatment\\manager\\appointmentcheckingpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C13D036-CC10-48A2-B801-2DA004AAC9DA}|BusinessObject\\BusinessObject.csproj|d:\\fpt\\prn211\\project\\infertilitytreatment\\businessobject\\models\\infertilitytreatmentcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C13D036-CC10-48A2-B801-2DA004AAC9DA}|BusinessObject\\BusinessObject.csproj|solutionrelative:businessobject\\models\\infertilitytreatmentcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDC9E7D6-B4C2-491E-8339-A73367E2713C}|InfertilityTreatment\\InfertilityTreatment.csproj|d:\\fpt\\prn211\\project\\infertilitytreatment\\infertilitytreatment\\admin\\useraccesshistorydashport.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{EDC9E7D6-B4C2-491E-8339-A73367E2713C}|InfertilityTreatment\\InfertilityTreatment.csproj|solutionrelative:infertilitytreatment\\admin\\useraccesshistorydashport.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDC9E7D6-B4C2-491E-8339-A73367E2713C}|InfertilityTreatment\\InfertilityTreatment.csproj|d:\\fpt\\prn211\\project\\infertilitytreatment\\infertilitytreatment\\customer\\bookappointmentpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDC9E7D6-B4C2-491E-8339-A73367E2713C}|InfertilityTreatment\\InfertilityTreatment.csproj|solutionrelative:infertilitytreatment\\customer\\bookappointmentpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04E765F2-CD5E-4660-851A-978B2FA9E393}|Service\\Service.csproj|d:\\fpt\\prn211\\project\\infertilitytreatment\\service\\implements\\appointmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04E765F2-CD5E-4660-851A-978B2FA9E393}|Service\\Service.csproj|solutionrelative:service\\implements\\appointmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBEF5926-F7BA-441D-AF77-F0C149F1FAC9}|Repository\\Repository.csproj|d:\\fpt\\prn211\\project\\infertilitytreatment\\repository\\implements\\appointmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBEF5926-F7BA-441D-AF77-F0C149F1FAC9}|Repository\\Repository.csproj|solutionrelative:repository\\implements\\appointmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBEF5926-F7BA-441D-AF77-F0C149F1FAC9}|Repository\\Repository.csproj|d:\\fpt\\prn211\\project\\infertilitytreatment\\repository\\interfaces\\iappointmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBEF5926-F7BA-441D-AF77-F0C149F1FAC9}|Repository\\Repository.csproj|solutionrelative:repository\\interfaces\\iappointmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04E765F2-CD5E-4660-851A-978B2FA9E393}|Service\\Service.csproj|d:\\fpt\\prn211\\project\\infertilitytreatment\\service\\interface\\iappointmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04E765F2-CD5E-4660-851A-978B2FA9E393}|Service\\Service.csproj|solutionrelative:service\\interface\\iappointmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C13D036-CC10-48A2-B801-2DA004AAC9DA}|BusinessObject\\BusinessObject.csproj|d:\\fpt\\prn211\\project\\infertilitytreatment\\businessobject\\models\\schedule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C13D036-CC10-48A2-B801-2DA004AAC9DA}|BusinessObject\\BusinessObject.csproj|solutionrelative:businessobject\\models\\schedule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C13D036-CC10-48A2-B801-2DA004AAC9DA}|BusinessObject\\BusinessObject.csproj|d:\\fpt\\prn211\\project\\infertilitytreatment\\businessobject\\models\\medicalrecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C13D036-CC10-48A2-B801-2DA004AAC9DA}|BusinessObject\\BusinessObject.csproj|solutionrelative:businessobject\\models\\medicalrecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C13D036-CC10-48A2-B801-2DA004AAC9DA}|BusinessObject\\BusinessObject.csproj|d:\\fpt\\prn211\\project\\infertilitytreatment\\businessobject\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C13D036-CC10-48A2-B801-2DA004AAC9DA}|BusinessObject\\BusinessObject.csproj|solutionrelative:businessobject\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDC9E7D6-B4C2-491E-8339-A73367E2713C}|InfertilityTreatment\\InfertilityTreatment.csproj|d:\\fpt\\prn211\\project\\infertilitytreatment\\infertilitytreatment\\customer\\bookappointmentpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{EDC9E7D6-B4C2-491E-8339-A73367E2713C}|InfertilityTreatment\\InfertilityTreatment.csproj|solutionrelative:infertilitytreatment\\customer\\bookappointmentpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDC9E7D6-B4C2-491E-8339-A73367E2713C}|InfertilityTreatment\\InfertilityTreatment.csproj|d:\\fpt\\prn211\\project\\infertilitytreatment\\infertilitytreatment\\manager\\appointmentcheckingpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{EDC9E7D6-B4C2-491E-8339-A73367E2713C}|InfertilityTreatment\\InfertilityTreatment.csproj|solutionrelative:infertilitytreatment\\manager\\appointmentcheckingpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDC9E7D6-B4C2-491E-8339-A73367E2713C}|InfertilityTreatment\\InfertilityTreatment.csproj|d:\\fpt\\prn211\\project\\infertilitytreatment\\infertilitytreatment\\register.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDC9E7D6-B4C2-491E-8339-A73367E2713C}|InfertilityTreatment\\InfertilityTreatment.csproj|solutionrelative:infertilitytreatment\\register.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDC9E7D6-B4C2-491E-8339-A73367E2713C}|InfertilityTreatment\\InfertilityTreatment.csproj|d:\\fpt\\prn211\\project\\infertilitytreatment\\infertilitytreatment\\register.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{EDC9E7D6-B4C2-491E-8339-A73367E2713C}|InfertilityTreatment\\InfertilityTreatment.csproj|solutionrelative:infertilitytreatment\\register.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDC9E7D6-B4C2-491E-8339-A73367E2713C}|InfertilityTreatment\\InfertilityTreatment.csproj|d:\\fpt\\prn211\\project\\infertilitytreatment\\infertilitytreatment\\admin\\adminmanagehomepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{EDC9E7D6-B4C2-491E-8339-A73367E2713C}|InfertilityTreatment\\InfertilityTreatment.csproj|solutionrelative:infertilitytreatment\\admin\\adminmanagehomepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDC9E7D6-B4C2-491E-8339-A73367E2713C}|InfertilityTreatment\\InfertilityTreatment.csproj|d:\\fpt\\prn211\\project\\infertilitytreatment\\infertilitytreatment\\admin\\adminmanagehomepage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDC9E7D6-B4C2-491E-8339-A73367E2713C}|InfertilityTreatment\\InfertilityTreatment.csproj|solutionrelative:infertilitytreatment\\admin\\adminmanagehomepage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDC9E7D6-B4C2-491E-8339-A73367E2713C}|InfertilityTreatment\\InfertilityTreatment.csproj|d:\\fpt\\prn211\\project\\infertilitytreatment\\infertilitytreatment\\customer\\customerpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDC9E7D6-B4C2-491E-8339-A73367E2713C}|InfertilityTreatment\\InfertilityTreatment.csproj|solutionrelative:infertilitytreatment\\customer\\customerpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDC9E7D6-B4C2-491E-8339-A73367E2713C}|InfertilityTreatment\\InfertilityTreatment.csproj|d:\\fpt\\prn211\\project\\infertilitytreatment\\infertilitytreatment\\customer\\customerfeedbackpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDC9E7D6-B4C2-491E-8339-A73367E2713C}|InfertilityTreatment\\InfertilityTreatment.csproj|solutionrelative:infertilitytreatment\\customer\\customerfeedbackpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDC9E7D6-B4C2-491E-8339-A73367E2713C}|InfertilityTreatment\\InfertilityTreatment.csproj|d:\\fpt\\prn211\\project\\infertilitytreatment\\infertilitytreatment\\customer\\customerpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{EDC9E7D6-B4C2-491E-8339-A73367E2713C}|InfertilityTreatment\\InfertilityTreatment.csproj|solutionrelative:infertilitytreatment\\customer\\customerpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBEF5926-F7BA-441D-AF77-F0C149F1FAC9}|Repository\\Repository.csproj|d:\\fpt\\prn211\\project\\infertilitytreatment\\repository\\implements\\schedulerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBEF5926-F7BA-441D-AF77-F0C149F1FAC9}|Repository\\Repository.csproj|solutionrelative:repository\\implements\\schedulerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDC9E7D6-B4C2-491E-8339-A73367E2713C}|InfertilityTreatment\\InfertilityTreatment.csproj|d:\\fpt\\prn211\\project\\infertilitytreatment\\infertilitytreatment\\manager\\blogmanagerpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{EDC9E7D6-B4C2-491E-8339-A73367E2713C}|InfertilityTreatment\\InfertilityTreatment.csproj|solutionrelative:infertilitytreatment\\manager\\blogmanagerpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C13D036-CC10-48A2-B801-2DA004AAC9DA}|BusinessObject\\BusinessObject.csproj|d:\\fpt\\prn211\\project\\infertilitytreatment\\businessobject\\models\\patientrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C13D036-CC10-48A2-B801-2DA004AAC9DA}|BusinessObject\\BusinessObject.csproj|solutionrelative:businessobject\\models\\patientrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C13D036-CC10-48A2-B801-2DA004AAC9DA}|BusinessObject\\BusinessObject.csproj|d:\\fpt\\prn211\\project\\infertilitytreatment\\businessobject\\models\\feedback.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C13D036-CC10-48A2-B801-2DA004AAC9DA}|BusinessObject\\BusinessObject.csproj|solutionrelative:businessobject\\models\\feedback.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C13D036-CC10-48A2-B801-2DA004AAC9DA}|BusinessObject\\BusinessObject.csproj|d:\\fpt\\prn211\\project\\infertilitytreatment\\businessobject\\models\\blog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C13D036-CC10-48A2-B801-2DA004AAC9DA}|BusinessObject\\BusinessObject.csproj|solutionrelative:businessobject\\models\\blog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04E765F2-CD5E-4660-851A-978B2FA9E393}|Service\\Service.csproj|d:\\fpt\\prn211\\project\\infertilitytreatment\\service\\implements\\scheduleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04E765F2-CD5E-4660-851A-978B2FA9E393}|Service\\Service.csproj|solutionrelative:service\\implements\\scheduleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDC9E7D6-B4C2-491E-8339-A73367E2713C}|InfertilityTreatment\\InfertilityTreatment.csproj|d:\\fpt\\prn211\\project\\infertilitytreatment\\infertilitytreatment\\manager\\managerhomepage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDC9E7D6-B4C2-491E-8339-A73367E2713C}|InfertilityTreatment\\InfertilityTreatment.csproj|solutionrelative:infertilitytreatment\\manager\\managerhomepage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C13D036-CC10-48A2-B801-2DA004AAC9DA}|BusinessObject\\BusinessObject.csproj|d:\\fpt\\prn211\\project\\infertilitytreatment\\businessobject\\migrations\\20250812124109_update-db.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C13D036-CC10-48A2-B801-2DA004AAC9DA}|BusinessObject\\BusinessObject.csproj|solutionrelative:businessobject\\migrations\\20250812124109_update-db.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C13D036-CC10-48A2-B801-2DA004AAC9DA}|BusinessObject\\BusinessObject.csproj|d:\\fpt\\prn211\\project\\infertilitytreatment\\businessobject\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9C13D036-CC10-48A2-B801-2DA004AAC9DA}|BusinessObject\\BusinessObject.csproj|solutionrelative:businessobject\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDC9E7D6-B4C2-491E-8339-A73367E2713C}|InfertilityTreatment\\InfertilityTreatment.csproj|d:\\fpt\\prn211\\project\\infertilitytreatment\\infertilitytreatment\\manager\\managerhomepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{EDC9E7D6-B4C2-491E-8339-A73367E2713C}|InfertilityTreatment\\InfertilityTreatment.csproj|solutionrelative:infertilitytreatment\\manager\\managerhomepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDC9E7D6-B4C2-491E-8339-A73367E2713C}|InfertilityTreatment\\InfertilityTreatment.csproj|d:\\fpt\\prn211\\project\\infertilitytreatment\\infertilitytreatment\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDC9E7D6-B4C2-491E-8339-A73367E2713C}|InfertilityTreatment\\InfertilityTreatment.csproj|solutionrelative:infertilitytreatment\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDC9E7D6-B4C2-491E-8339-A73367E2713C}|InfertilityTreatment\\InfertilityTreatment.csproj|d:\\fpt\\prn211\\project\\infertilitytreatment\\infertilitytreatment\\infertilityhomepage\\webhomepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{EDC9E7D6-B4C2-491E-8339-A73367E2713C}|InfertilityTreatment\\InfertilityTreatment.csproj|solutionrelative:infertilitytreatment\\infertilityhomepage\\webhomepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDC9E7D6-B4C2-491E-8339-A73367E2713C}|InfertilityTreatment\\InfertilityTreatment.csproj|d:\\fpt\\prn211\\project\\infertilitytreatment\\infertilitytreatment\\infertilityhomepage\\profilepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{EDC9E7D6-B4C2-491E-8339-A73367E2713C}|InfertilityTreatment\\InfertilityTreatment.csproj|solutionrelative:infertilitytreatment\\infertilityhomepage\\profilepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDC9E7D6-B4C2-491E-8339-A73367E2713C}|InfertilityTreatment\\InfertilityTreatment.csproj|d:\\fpt\\prn211\\project\\infertilitytreatment\\infertilitytreatment\\infertilityhomepage\\contactuspage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{EDC9E7D6-B4C2-491E-8339-A73367E2713C}|InfertilityTreatment\\InfertilityTreatment.csproj|solutionrelative:infertilitytreatment\\infertilityhomepage\\contactuspage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDC9E7D6-B4C2-491E-8339-A73367E2713C}|InfertilityTreatment\\InfertilityTreatment.csproj|d:\\fpt\\prn211\\project\\infertilitytreatment\\infertilitytreatment\\infertilityhomepage\\aboutuspage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{EDC9E7D6-B4C2-491E-8339-A73367E2713C}|InfertilityTreatment\\InfertilityTreatment.csproj|solutionrelative:infertilitytreatment\\infertilityhomepage\\aboutuspage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDC9E7D6-B4C2-491E-8339-A73367E2713C}|InfertilityTreatment\\InfertilityTreatment.csproj|d:\\fpt\\prn211\\project\\infertilitytreatment\\infertilitytreatment\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{EDC9E7D6-B4C2-491E-8339-A73367E2713C}|InfertilityTreatment\\InfertilityTreatment.csproj|solutionrelative:infertilitytreatment\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C13D036-CC10-48A2-B801-2DA004AAC9DA}|BusinessObject\\BusinessObject.csproj|d:\\fpt\\prn211\\project\\infertilitytreatment\\businessobject\\models\\treatmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C13D036-CC10-48A2-B801-2DA004AAC9DA}|BusinessObject\\BusinessObject.csproj|solutionrelative:businessobject\\models\\treatmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDC9E7D6-B4C2-491E-8339-A73367E2713C}|InfertilityTreatment\\InfertilityTreatment.csproj|d:\\fpt\\prn211\\project\\infertilitytreatment\\infertilitytreatment\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDC9E7D6-B4C2-491E-8339-A73367E2713C}|InfertilityTreatment\\InfertilityTreatment.csproj|solutionrelative:infertilitytreatment\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDC9E7D6-B4C2-491E-8339-A73367E2713C}|InfertilityTreatment\\InfertilityTreatment.csproj|d:\\fpt\\prn211\\project\\infertilitytreatment\\infertilitytreatment\\infertilitytreatment.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{EDC9E7D6-B4C2-491E-8339-A73367E2713C}|InfertilityTreatment\\InfertilityTreatment.csproj|solutionrelative:infertilitytreatment\\infertilitytreatment.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\hoang\\AppData\\Local\\Temp\\.vsdbgsrc\\811f0c1102ba7a3d32ee827d0bb52f1af2ec958c7f3fb7abe7c05f601195e6c8\\XamlReader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDC9E7D6-B4C2-491E-8339-A73367E2713C}|InfertilityTreatment\\InfertilityTreatment.csproj|d:\\fpt\\prn211\\project\\infertilitytreatment\\infertilitytreatment\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{EDC9E7D6-B4C2-491E-8339-A73367E2713C}|InfertilityTreatment\\InfertilityTreatment.csproj|solutionrelative:infertilitytreatment\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 35,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CustomerConfirmCancelDialog.xaml.cs",
+              "DocumentMoniker": "D:\\FPT\\PRN211\\Project\\InfertilityTreatment\\InfertilityTreatment\\Customer\\CustomerConfirmCancelDialog.xaml.cs",
+              "RelativeDocumentMoniker": "InfertilityTreatment\\Customer\\CustomerConfirmCancelDialog.xaml.cs",
+              "ToolTip": "D:\\FPT\\PRN211\\Project\\InfertilityTreatment\\InfertilityTreatment\\Customer\\CustomerConfirmCancelDialog.xaml.cs",
+              "RelativeToolTip": "InfertilityTreatment\\Customer\\CustomerConfirmCancelDialog.xaml.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAABUAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-16T09:58:40.818Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CustomerAppoimentPage.xaml.cs",
+              "DocumentMoniker": "D:\\FPT\\PRN211\\Project\\InfertilityTreatment\\InfertilityTreatment\\Customer\\CustomerAppoimentPage.xaml.cs",
+              "RelativeDocumentMoniker": "InfertilityTreatment\\Customer\\CustomerAppoimentPage.xaml.cs",
+              "ToolTip": "D:\\FPT\\PRN211\\Project\\InfertilityTreatment\\InfertilityTreatment\\Customer\\CustomerAppoimentPage.xaml.cs",
+              "RelativeToolTip": "InfertilityTreatment\\Customer\\CustomerAppoimentPage.xaml.cs",
+              "ViewState": "AgIAAFQBAAAAAAAAAAAYwIMBAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-12T16:17:11.62Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AppointmentCheckingPage.xaml.cs",
+              "DocumentMoniker": "D:\\FPT\\PRN211\\Project\\InfertilityTreatment\\InfertilityTreatment\\Manager\\AppointmentCheckingPage.xaml.cs",
+              "RelativeDocumentMoniker": "InfertilityTreatment\\Manager\\AppointmentCheckingPage.xaml.cs",
+              "ToolTip": "D:\\FPT\\PRN211\\Project\\InfertilityTreatment\\InfertilityTreatment\\Manager\\AppointmentCheckingPage.xaml.cs",
+              "RelativeToolTip": "InfertilityTreatment\\Manager\\AppointmentCheckingPage.xaml.cs",
+              "ViewState": "AgIAAGgAAAAAAAAAAAAAAAIBAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-15T04:17:49.269Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Appointment.cs",
+              "DocumentMoniker": "D:\\FPT\\PRN211\\Project\\InfertilityTreatment\\BusinessObject\\Models\\Appointment.cs",
+              "RelativeDocumentMoniker": "BusinessObject\\Models\\Appointment.cs",
+              "ToolTip": "D:\\FPT\\PRN211\\Project\\InfertilityTreatment\\BusinessObject\\Models\\Appointment.cs",
+              "RelativeToolTip": "BusinessObject\\Models\\Appointment.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAcwCkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-12T12:39:01.187Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UserAccessHistoryDashPort.xaml",
+              "DocumentMoniker": "D:\\FPT\\PRN211\\Project\\InfertilityTreatment\\InfertilityTreatment\\Admin\\UserAccessHistoryDashPort.xaml",
+              "RelativeDocumentMoniker": "InfertilityTreatment\\Admin\\UserAccessHistoryDashPort.xaml",
+              "ToolTip": "D:\\FPT\\PRN211\\Project\\InfertilityTreatment\\InfertilityTreatment\\Admin\\UserAccessHistoryDashPort.xaml",
+              "RelativeToolTip": "InfertilityTreatment\\Admin\\UserAccessHistoryDashPort.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-08-13T13:33:43.592Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CustomerConfirmCancelDialog.xaml",
+              "DocumentMoniker": "D:\\FPT\\PRN211\\Project\\InfertilityTreatment\\InfertilityTreatment\\Customer\\CustomerConfirmCancelDialog.xaml",
+              "RelativeDocumentMoniker": "InfertilityTreatment\\Customer\\CustomerConfirmCancelDialog.xaml",
+              "ToolTip": "D:\\FPT\\PRN211\\Project\\InfertilityTreatment\\InfertilityTreatment\\Customer\\CustomerConfirmCancelDialog.xaml",
+              "RelativeToolTip": "InfertilityTreatment\\Customer\\CustomerConfirmCancelDialog.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-08-16T09:58:11.434Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UserAccessHistoryDashPort.xaml.cs",
+              "DocumentMoniker": "D:\\FPT\\PRN211\\Project\\InfertilityTreatment\\InfertilityTreatment\\Admin\\UserAccessHistoryDashPort.xaml.cs",
+              "RelativeDocumentMoniker": "InfertilityTreatment\\Admin\\UserAccessHistoryDashPort.xaml.cs",
+              "ToolTip": "D:\\FPT\\PRN211\\Project\\InfertilityTreatment\\InfertilityTreatment\\Admin\\UserAccessHistoryDashPort.xaml.cs",
+              "RelativeToolTip": "InfertilityTreatment\\Admin\\UserAccessHistoryDashPort.xaml.cs",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAUwE0AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-10T06:06:43.49Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "InfertilityTreatmentContext.cs",
+              "DocumentMoniker": "D:\\FPT\\PRN211\\Project\\InfertilityTreatment\\BusinessObject\\Models\\InfertilityTreatmentContext.cs",
+              "RelativeDocumentMoniker": "BusinessObject\\Models\\InfertilityTreatmentContext.cs",
+              "ToolTip": "D:\\FPT\\PRN211\\Project\\InfertilityTreatment\\BusinessObject\\Models\\InfertilityTreatmentContext.cs",
+              "RelativeToolTip": "BusinessObject\\Models\\InfertilityTreatmentContext.cs",
+              "ViewState": "AgIAAGEAAAAAAAAAAAAiwG8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-12T11:20:53.818Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CustomerAppoimentPage.xaml",
+              "DocumentMoniker": "D:\\FPT\\PRN211\\Project\\InfertilityTreatment\\InfertilityTreatment\\Customer\\CustomerAppoimentPage.xaml",
+              "RelativeDocumentMoniker": "InfertilityTreatment\\Customer\\CustomerAppoimentPage.xaml",
+              "ToolTip": "D:\\FPT\\PRN211\\Project\\InfertilityTreatment\\InfertilityTreatment\\Customer\\CustomerAppoimentPage.xaml",
+              "RelativeToolTip": "InfertilityTreatment\\Customer\\CustomerAppoimentPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-08-16T07:28:38.385Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "BookAppointmentPage.xaml.cs",
+              "DocumentMoniker": "D:\\FPT\\PRN211\\Project\\InfertilityTreatment\\InfertilityTreatment\\Customer\\BookAppointmentPage.xaml.cs",
+              "RelativeDocumentMoniker": "InfertilityTreatment\\Customer\\BookAppointmentPage.xaml.cs",
+              "ToolTip": "D:\\FPT\\PRN211\\Project\\InfertilityTreatment\\InfertilityTreatment\\Customer\\BookAppointmentPage.xaml.cs",
+              "RelativeToolTip": "InfertilityTreatment\\Customer\\BookAppointmentPage.xaml.cs",
+              "ViewState": "AgIAAG8AAAAAAAAAAAAAwHsAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-12T16:15:54.42Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AppointmentRepository.cs",
+              "DocumentMoniker": "D:\\FPT\\PRN211\\Project\\InfertilityTreatment\\Repository\\Implements\\AppointmentRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\Implements\\AppointmentRepository.cs",
+              "ToolTip": "D:\\FPT\\PRN211\\Project\\InfertilityTreatment\\Repository\\Implements\\AppointmentRepository.cs",
+              "RelativeToolTip": "Repository\\Implements\\AppointmentRepository.cs",
+              "ViewState": "AgIAAHkAAAAAAAAAAAAQwIsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-12T16:29:41.524Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IAppointmentRepository.cs",
+              "DocumentMoniker": "D:\\FPT\\PRN211\\Project\\InfertilityTreatment\\Repository\\Interfaces\\IAppointmentRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\Interfaces\\IAppointmentRepository.cs",
+              "ToolTip": "D:\\FPT\\PRN211\\Project\\InfertilityTreatment\\Repository\\Interfaces\\IAppointmentRepository.cs",
+              "RelativeToolTip": "Repository\\Interfaces\\IAppointmentRepository.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAwAkAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-12T17:16:53.887Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AppointmentService.cs",
+              "DocumentMoniker": "D:\\FPT\\PRN211\\Project\\InfertilityTreatment\\Service\\Implements\\AppointmentService.cs",
+              "RelativeDocumentMoniker": "Service\\Implements\\AppointmentService.cs",
+              "ToolTip": "D:\\FPT\\PRN211\\Project\\InfertilityTreatment\\Service\\Implements\\AppointmentService.cs",
+              "RelativeToolTip": "Service\\Implements\\AppointmentService.cs",
+              "ViewState": "AgIAAEAAAAAAAAAAAAAUwEsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-12T16:29:32.04Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IAppointmentService.cs",
+              "DocumentMoniker": "D:\\FPT\\PRN211\\Project\\InfertilityTreatment\\Service\\Interface\\IAppointmentService.cs",
+              "RelativeDocumentMoniker": "Service\\Interface\\IAppointmentService.cs",
+              "ToolTip": "D:\\FPT\\PRN211\\Project\\InfertilityTreatment\\Service\\Interface\\IAppointmentService.cs",
+              "RelativeToolTip": "Service\\Interface\\IAppointmentService.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAwAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-12T16:27:56.692Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "MedicalRecord.cs",
+              "DocumentMoniker": "D:\\FPT\\PRN211\\Project\\InfertilityTreatment\\BusinessObject\\Models\\MedicalRecord.cs",
+              "RelativeDocumentMoniker": "BusinessObject\\Models\\MedicalRecord.cs",
+              "ToolTip": "D:\\FPT\\PRN211\\Project\\InfertilityTreatment\\BusinessObject\\Models\\MedicalRecord.cs",
+              "RelativeToolTip": "BusinessObject\\Models\\MedicalRecord.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-12T16:35:36.666Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Schedule.cs",
+              "DocumentMoniker": "D:\\FPT\\PRN211\\Project\\InfertilityTreatment\\BusinessObject\\Models\\Schedule.cs",
+              "RelativeDocumentMoniker": "BusinessObject\\Models\\Schedule.cs",
+              "ToolTip": "D:\\FPT\\PRN211\\Project\\InfertilityTreatment\\BusinessObject\\Models\\Schedule.cs",
+              "RelativeToolTip": "BusinessObject\\Models\\Schedule.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAUwBcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-12T13:38:19.007Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\FPT\\PRN211\\Project\\InfertilityTreatment\\BusinessObject\\Models\\User.cs",
+              "RelativeDocumentMoniker": "BusinessObject\\Models\\User.cs",
+              "ToolTip": "D:\\FPT\\PRN211\\Project\\InfertilityTreatment\\BusinessObject\\Models\\User.cs",
+              "RelativeToolTip": "BusinessObject\\Models\\User.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAUwDEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-12T12:40:00.466Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "BookAppointmentPage.xaml",
+              "DocumentMoniker": "D:\\FPT\\PRN211\\Project\\InfertilityTreatment\\InfertilityTreatment\\Customer\\BookAppointmentPage.xaml",
+              "RelativeDocumentMoniker": "InfertilityTreatment\\Customer\\BookAppointmentPage.xaml",
+              "ToolTip": "D:\\FPT\\PRN211\\Project\\InfertilityTreatment\\InfertilityTreatment\\Customer\\BookAppointmentPage.xaml",
+              "RelativeToolTip": "InfertilityTreatment\\Customer\\BookAppointmentPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-07-15T16:50:58.587Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "AppointmentCheckingPage.xaml",
+              "DocumentMoniker": "D:\\FPT\\PRN211\\Project\\InfertilityTreatment\\InfertilityTreatment\\Manager\\AppointmentCheckingPage.xaml",
+              "RelativeDocumentMoniker": "InfertilityTreatment\\Manager\\AppointmentCheckingPage.xaml",
+              "ToolTip": "D:\\FPT\\PRN211\\Project\\InfertilityTreatment\\InfertilityTreatment\\Manager\\AppointmentCheckingPage.xaml",
+              "RelativeToolTip": "InfertilityTreatment\\Manager\\AppointmentCheckingPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-08-15T04:28:17.302Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "AdminManageHomePage.xaml.cs",
+              "DocumentMoniker": "D:\\FPT\\PRN211\\Project\\InfertilityTreatment\\InfertilityTreatment\\Admin\\AdminManageHomePage.xaml.cs",
+              "RelativeDocumentMoniker": "InfertilityTreatment\\Admin\\AdminManageHomePage.xaml.cs",
+              "ToolTip": "D:\\FPT\\PRN211\\Project\\InfertilityTreatment\\InfertilityTreatment\\Admin\\AdminManageHomePage.xaml.cs",
+              "RelativeToolTip": "InfertilityTreatment\\Admin\\AdminManageHomePage.xaml.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAkwC0AAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-13T05:30:34.733Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "CustomerFeedBackPage.xaml.cs",
+              "DocumentMoniker": "D:\\FPT\\PRN211\\Project\\InfertilityTreatment\\InfertilityTreatment\\Customer\\CustomerFeedBackPage.xaml.cs",
+              "RelativeDocumentMoniker": "InfertilityTreatment\\Customer\\CustomerFeedBackPage.xaml.cs",
+              "ToolTip": "D:\\FPT\\PRN211\\Project\\InfertilityTreatment\\InfertilityTreatment\\Customer\\CustomerFeedBackPage.xaml.cs",
+              "RelativeToolTip": "InfertilityTreatment\\Customer\\CustomerFeedBackPage.xaml.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-13T05:39:44.244Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Register.xaml",
+              "DocumentMoniker": "D:\\FPT\\PRN211\\Project\\InfertilityTreatment\\InfertilityTreatment\\Register.xaml",
+              "RelativeDocumentMoniker": "InfertilityTreatment\\Register.xaml",
+              "ToolTip": "D:\\FPT\\PRN211\\Project\\InfertilityTreatment\\InfertilityTreatment\\Register.xaml",
+              "RelativeToolTip": "InfertilityTreatment\\Register.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-08-12T12:19:46.385Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Register.xaml.cs",
+              "DocumentMoniker": "D:\\FPT\\PRN211\\Project\\InfertilityTreatment\\InfertilityTreatment\\Register.xaml.cs",
+              "RelativeDocumentMoniker": "InfertilityTreatment\\Register.xaml.cs",
+              "ToolTip": "D:\\FPT\\PRN211\\Project\\InfertilityTreatment\\InfertilityTreatment\\Register.xaml.cs",
+              "RelativeToolTip": "InfertilityTreatment\\Register.xaml.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAWwCoAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-12T12:53:50.318Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "AdminManageHomePage.xaml",
+              "DocumentMoniker": "D:\\FPT\\PRN211\\Project\\InfertilityTreatment\\InfertilityTreatment\\Admin\\AdminManageHomePage.xaml",
+              "RelativeDocumentMoniker": "InfertilityTreatment\\Admin\\AdminManageHomePage.xaml",
+              "ToolTip": "D:\\FPT\\PRN211\\Project\\InfertilityTreatment\\InfertilityTreatment\\Admin\\AdminManageHomePage.xaml",
+              "RelativeToolTip": "InfertilityTreatment\\Admin\\AdminManageHomePage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-08-12T12:36:19.338Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "CustomerPage.xaml.cs",
+              "DocumentMoniker": "D:\\FPT\\PRN211\\Project\\InfertilityTreatment\\InfertilityTreatment\\Customer\\CustomerPage.xaml.cs",
+              "RelativeDocumentMoniker": "InfertilityTreatment\\Customer\\CustomerPage.xaml.cs",
+              "ToolTip": "D:\\FPT\\PRN211\\Project\\InfertilityTreatment\\InfertilityTreatment\\Customer\\CustomerPage.xaml.cs",
+              "RelativeToolTip": "InfertilityTreatment\\Customer\\CustomerPage.xaml.cs",
+              "ViewState": "AgIAALcAAAAAAAAAAAAAAEgAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-13T05:31:09.022Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "CustomerPage.xaml",
+              "DocumentMoniker": "D:\\FPT\\PRN211\\Project\\InfertilityTreatment\\InfertilityTreatment\\Customer\\CustomerPage.xaml",
+              "RelativeDocumentMoniker": "InfertilityTreatment\\Customer\\CustomerPage.xaml",
+              "ToolTip": "D:\\FPT\\PRN211\\Project\\InfertilityTreatment\\InfertilityTreatment\\Customer\\CustomerPage.xaml",
+              "RelativeToolTip": "InfertilityTreatment\\Customer\\CustomerPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-08-12T12:16:32.322Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "ScheduleRepository.cs",
+              "DocumentMoniker": "D:\\FPT\\PRN211\\Project\\InfertilityTreatment\\Repository\\Implements\\ScheduleRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\Implements\\ScheduleRepository.cs",
+              "ToolTip": "D:\\FPT\\PRN211\\Project\\InfertilityTreatment\\Repository\\Implements\\ScheduleRepository.cs",
+              "RelativeToolTip": "Repository\\Implements\\ScheduleRepository.cs",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAcwFcAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-12T16:56:20.939Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "BlogManagerPage.xaml",
+              "DocumentMoniker": "D:\\FPT\\PRN211\\Project\\InfertilityTreatment\\InfertilityTreatment\\Manager\\BlogManagerPage.xaml",
+              "RelativeDocumentMoniker": "InfertilityTreatment\\Manager\\BlogManagerPage.xaml",
+              "ToolTip": "D:\\FPT\\PRN211\\Project\\InfertilityTreatment\\InfertilityTreatment\\Manager\\BlogManagerPage.xaml",
+              "RelativeToolTip": "InfertilityTreatment\\Manager\\BlogManagerPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-08-12T16:47:03.639Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "PatientRequest.cs",
+              "DocumentMoniker": "D:\\FPT\\PRN211\\Project\\InfertilityTreatment\\BusinessObject\\Models\\PatientRequest.cs",
+              "RelativeDocumentMoniker": "BusinessObject\\Models\\PatientRequest.cs",
+              "ToolTip": "D:\\FPT\\PRN211\\Project\\InfertilityTreatment\\BusinessObject\\Models\\PatientRequest.cs",
+              "RelativeToolTip": "BusinessObject\\Models\\PatientRequest.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA8AAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-12T16:35:38.265Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Blog.cs",
+              "DocumentMoniker": "D:\\FPT\\PRN211\\Project\\InfertilityTreatment\\BusinessObject\\Models\\Blog.cs",
+              "RelativeDocumentMoniker": "BusinessObject\\Models\\Blog.cs",
+              "ToolTip": "D:\\FPT\\PRN211\\Project\\InfertilityTreatment\\BusinessObject\\Models\\Blog.cs",
+              "RelativeToolTip": "BusinessObject\\Models\\Blog.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-12T15:23:38.615Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Feedback.cs",
+              "DocumentMoniker": "D:\\FPT\\PRN211\\Project\\InfertilityTreatment\\BusinessObject\\Models\\Feedback.cs",
+              "RelativeDocumentMoniker": "BusinessObject\\Models\\Feedback.cs",
+              "ToolTip": "D:\\FPT\\PRN211\\Project\\InfertilityTreatment\\BusinessObject\\Models\\Feedback.cs",
+              "RelativeToolTip": "BusinessObject\\Models\\Feedback.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-12T13:11:39.923Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "ScheduleService.cs",
+              "DocumentMoniker": "D:\\FPT\\PRN211\\Project\\InfertilityTreatment\\Service\\Implements\\ScheduleService.cs",
+              "RelativeDocumentMoniker": "Service\\Implements\\ScheduleService.cs",
+              "ToolTip": "D:\\FPT\\PRN211\\Project\\InfertilityTreatment\\Service\\Implements\\ScheduleService.cs",
+              "RelativeToolTip": "Service\\Implements\\ScheduleService.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAMwDwAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-12T16:21:32.559Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\FPT\\PRN211\\Project\\InfertilityTreatment\\BusinessObject\\appsettings.json",
+              "RelativeDocumentMoniker": "BusinessObject\\appsettings.json",
+              "ToolTip": "D:\\FPT\\PRN211\\Project\\InfertilityTreatment\\BusinessObject\\appsettings.json",
+              "RelativeToolTip": "BusinessObject\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-12T06:35:17.126Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "AboutUsPage.xaml",
+              "DocumentMoniker": "D:\\FPT\\PRN211\\Project\\InfertilityTreatment\\InfertilityTreatment\\InfertilityHomePage\\AboutUsPage.xaml",
+              "RelativeDocumentMoniker": "InfertilityTreatment\\InfertilityHomePage\\AboutUsPage.xaml",
+              "ToolTip": "D:\\FPT\\PRN211\\Project\\InfertilityTreatment\\InfertilityTreatment\\InfertilityHomePage\\AboutUsPage.xaml",
+              "RelativeToolTip": "InfertilityTreatment\\InfertilityHomePage\\AboutUsPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-08-12T14:20:56.71Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "20250812124109_update-db.cs",
+              "DocumentMoniker": "D:\\FPT\\PRN211\\Project\\InfertilityTreatment\\BusinessObject\\Migrations\\20250812124109_update-db.cs",
+              "RelativeDocumentMoniker": "BusinessObject\\Migrations\\20250812124109_update-db.cs",
+              "ToolTip": "D:\\FPT\\PRN211\\Project\\InfertilityTreatment\\BusinessObject\\Migrations\\20250812124109_update-db.cs",
+              "RelativeToolTip": "BusinessObject\\Migrations\\20250812124109_update-db.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAD4v9oAAABXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-12T12:41:09.578Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "ManagerHomePage.xaml",
+              "DocumentMoniker": "D:\\FPT\\PRN211\\Project\\InfertilityTreatment\\InfertilityTreatment\\Manager\\ManagerHomePage.xaml",
+              "RelativeDocumentMoniker": "InfertilityTreatment\\Manager\\ManagerHomePage.xaml",
+              "ToolTip": "D:\\FPT\\PRN211\\Project\\InfertilityTreatment\\InfertilityTreatment\\Manager\\ManagerHomePage.xaml",
+              "RelativeToolTip": "InfertilityTreatment\\Manager\\ManagerHomePage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-08-12T15:22:33.606Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "D:\\FPT\\PRN211\\Project\\InfertilityTreatment\\InfertilityTreatment\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "InfertilityTreatment\\AssemblyInfo.cs",
+              "ToolTip": "D:\\FPT\\PRN211\\Project\\InfertilityTreatment\\InfertilityTreatment\\AssemblyInfo.cs",
+              "RelativeToolTip": "InfertilityTreatment\\AssemblyInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-12T12:19:43.707Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "ManagerHomePage.xaml.cs",
+              "DocumentMoniker": "D:\\FPT\\PRN211\\Project\\InfertilityTreatment\\InfertilityTreatment\\Manager\\ManagerHomePage.xaml.cs",
+              "RelativeDocumentMoniker": "InfertilityTreatment\\Manager\\ManagerHomePage.xaml.cs",
+              "ToolTip": "D:\\FPT\\PRN211\\Project\\InfertilityTreatment\\InfertilityTreatment\\Manager\\ManagerHomePage.xaml.cs",
+              "RelativeToolTip": "InfertilityTreatment\\Manager\\ManagerHomePage.xaml.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAMwEAAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-12T15:22:38.946Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "ContactUsPage.xaml",
+              "DocumentMoniker": "D:\\FPT\\PRN211\\Project\\InfertilityTreatment\\InfertilityTreatment\\InfertilityHomePage\\ContactUsPage.xaml",
+              "RelativeDocumentMoniker": "InfertilityTreatment\\InfertilityHomePage\\ContactUsPage.xaml",
+              "ToolTip": "D:\\FPT\\PRN211\\Project\\InfertilityTreatment\\InfertilityTreatment\\InfertilityHomePage\\ContactUsPage.xaml",
+              "RelativeToolTip": "InfertilityTreatment\\InfertilityHomePage\\ContactUsPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-08-12T14:20:58.626Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "WebHomePage.xaml",
+              "DocumentMoniker": "D:\\FPT\\PRN211\\Project\\InfertilityTreatment\\InfertilityTreatment\\InfertilityHomePage\\WebHomePage.xaml",
+              "RelativeDocumentMoniker": "InfertilityTreatment\\InfertilityHomePage\\WebHomePage.xaml",
+              "ToolTip": "D:\\FPT\\PRN211\\Project\\InfertilityTreatment\\InfertilityTreatment\\InfertilityHomePage\\WebHomePage.xaml",
+              "RelativeToolTip": "InfertilityTreatment\\InfertilityHomePage\\WebHomePage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-08-12T12:22:31.934Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "D:\\FPT\\PRN211\\Project\\InfertilityTreatment\\InfertilityTreatment\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "InfertilityTreatment\\MainWindow.xaml",
+              "ToolTip": "D:\\FPT\\PRN211\\Project\\InfertilityTreatment\\InfertilityTreatment\\MainWindow.xaml",
+              "RelativeToolTip": "InfertilityTreatment\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-08-12T12:19:44.974Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "ProfilePage.xaml",
+              "DocumentMoniker": "D:\\FPT\\PRN211\\Project\\InfertilityTreatment\\InfertilityTreatment\\InfertilityHomePage\\ProfilePage.xaml",
+              "RelativeDocumentMoniker": "InfertilityTreatment\\InfertilityHomePage\\ProfilePage.xaml",
+              "ToolTip": "D:\\FPT\\PRN211\\Project\\InfertilityTreatment\\InfertilityTreatment\\InfertilityHomePage\\ProfilePage.xaml",
+              "RelativeToolTip": "InfertilityTreatment\\InfertilityHomePage\\ProfilePage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-08-12T14:20:59.842Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "TreatmentService.cs",
+              "DocumentMoniker": "D:\\FPT\\PRN211\\Project\\InfertilityTreatment\\BusinessObject\\Models\\TreatmentService.cs",
+              "RelativeDocumentMoniker": "BusinessObject\\Models\\TreatmentService.cs",
+              "ToolTip": "D:\\FPT\\PRN211\\Project\\InfertilityTreatment\\BusinessObject\\Models\\TreatmentService.cs",
+              "RelativeToolTip": "BusinessObject\\Models\\TreatmentService.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAmwBcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-12T13:11:50.16Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "InfertilityTreatment.csproj",
+              "DocumentMoniker": "D:\\FPT\\PRN211\\Project\\InfertilityTreatment\\InfertilityTreatment\\InfertilityTreatment.csproj",
+              "RelativeDocumentMoniker": "InfertilityTreatment\\InfertilityTreatment.csproj",
+              "ToolTip": "D:\\FPT\\PRN211\\Project\\InfertilityTreatment\\InfertilityTreatment\\InfertilityTreatment.csproj",
+              "RelativeToolTip": "InfertilityTreatment\\InfertilityTreatment.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-08-12T12:30:58.366Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "D:\\FPT\\PRN211\\Project\\InfertilityTreatment\\InfertilityTreatment\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "InfertilityTreatment\\MainWindow.xaml.cs",
+              "ToolTip": "D:\\FPT\\PRN211\\Project\\InfertilityTreatment\\InfertilityTreatment\\MainWindow.xaml.cs",
+              "RelativeToolTip": "InfertilityTreatment\\MainWindow.xaml.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAD4vyEAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-12T12:37:00.249Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "XamlReader.cs",
+              "DocumentMoniker": "C:\\Users\\hoang\\AppData\\Local\\Temp\\.vsdbgsrc\\811f0c1102ba7a3d32ee827d0bb52f1af2ec958c7f3fb7abe7c05f601195e6c8\\XamlReader.cs",
+              "ToolTip": "C:\\Users\\hoang\\AppData\\Local\\Temp\\.vsdbgsrc\\811f0c1102ba7a3d32ee827d0bb52f1af2ec958c7f3fb7abe7c05f601195e6c8\\XamlReader.cs [Read Only]",
+              "ViewState": "AgIAAKoBAAAAAAAAAAAYwLABAAACAAAAAQAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-12T12:21:58.603Z",
+              "EditorCaption": " [Read Only]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "App.xaml",
+              "DocumentMoniker": "D:\\FPT\\PRN211\\Project\\InfertilityTreatment\\InfertilityTreatment\\App.xaml",
+              "RelativeDocumentMoniker": "InfertilityTreatment\\App.xaml",
+              "ToolTip": "D:\\FPT\\PRN211\\Project\\InfertilityTreatment\\InfertilityTreatment\\App.xaml",
+              "RelativeToolTip": "InfertilityTreatment\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-08-12T12:19:40.183Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
